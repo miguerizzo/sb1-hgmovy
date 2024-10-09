@@ -1,0 +1,12 @@
+flask
+flask-cors
+boto3
+gensim
+nltk
+spacy
+pyLDAvis
+matplotlib
+wordcloud
+pandas
+scikit-learn
+seaborn
